@@ -17,7 +17,7 @@ My goal is to become a Software Engineer.
 - ExpressJS (web development)
 
 
-# Experienced in the APIs:
+# Experienced in the following API's:
 - GraphQL API
 - REST API
 
