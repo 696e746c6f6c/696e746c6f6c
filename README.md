@@ -1,6 +1,6 @@
 # Hi there, I'm int! 
 
-## I'm 17 years old IT programming highschool student and Security Researcher on HackerOne. This is my HackerOne profile: https://hackerone.com/basement_int 
+## I'm 17 years old IT programming highschool student and Security Researcher on HackerOne. This is my HackerOne profile: https://hackerone.com/696e746c6f6c
 - My goal is to become a Software Engineer.
 
 ## Also check my Spotify playlist:
