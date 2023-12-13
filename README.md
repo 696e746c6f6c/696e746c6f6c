@@ -1,26 +1,8 @@
-# Hi there, I'm int! 
+I'm unknown like unknown window.origin.
 
-## I'm 17 years old IT programming highschool student and Security Researcher on HackerOne. I enjoy finding security vulnerabilities on multiple bug bounty programs It's my pleasure to make programs more secure and receive bounty as well. This is my HackerOne profile: https://hackerone.com/696e746c6f6c
-
-- My goal is to become a Software Engineer.
-
-# Experienced in the following programming languages:
-
-- JavaScript (web development)
-- HTML  (web development)
-- CSS   (web development)
-- Python (Everything)
-- Bash (Basic Scripting)
-
-# Experienced in the following Programming Frameworks:
-- NodeJS   (web development)
-- ReactJS  (web development)
-- ExpressJS (web development)
+https://hackerone.com/696e746c6f6c
 
 
-# Experienced in the following API's:
-- GraphQL API
-- REST API
 
 
 
